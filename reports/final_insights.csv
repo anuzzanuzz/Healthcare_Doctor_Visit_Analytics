@@ -1,0 +1,11 @@
+Insight,Value,Description
+Total Patients,5190,Total number of records analyzed
+Average Doctor Visits,0.3,Average number of doctor visits per patient
+Patients With Zero Visits,79.78805394990366,Percentage of patients with no recorded doctor visits
+Frequent Visitors,5.144508670520231,Percentage of patients with two or more doctor visits
+Maximum Doctor Visits,9,Highest number of recorded doctor visits
+Best Predictive Model,Decision Tree,Model ranked highest based on F1-score
+Best Model Accuracy,0.8439,Accuracy of the best predictive model
+Best Model Precision,0.1813,Precision of the best predictive model
+Best Model Recall,0.5849,Recall of the best predictive model
+Best Model F1 Score,0.2768,F1-score of the best predictive model
